@@ -1,1 +1,1 @@
-# yigitmotoko
+Motoko diliyle hazırladığım uygulama
